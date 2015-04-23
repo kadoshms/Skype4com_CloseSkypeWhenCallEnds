@@ -7,9 +7,9 @@ C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeA
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\Interop.SKYPE4COMLib.dll
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\AxInterop.SKYPE4COMLib.dll
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.vbproj.ResolveComReference.cache
-C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.Form1.resources
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.Resources.resources
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.vbproj.GenerateResource.Cache
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.exe
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.xml
 C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.pdb
+C:\Users\Mor\Documents\Visual Studio 2012\Projects\justask\SkypeAutoClose\SkypeAutoClose\obj\Debug\SkypeAutoClose.Main.resources
