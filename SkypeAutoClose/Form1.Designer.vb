@@ -22,9 +22,32 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
+        Me.AxSkype1 = New AxSKYPE4COMLib.AxSkype()
+        CType(Me.AxSkype1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SuspendLayout()
+        '
+        'AxSkype1
+        '
+        Me.AxSkype1.Enabled = True
+        Me.AxSkype1.Location = New System.Drawing.Point(0, 0)
+        Me.AxSkype1.Name = "AxSkype1"
+        Me.AxSkype1.OcxState = CType(resources.GetObject("AxSkype1.OcxState"), System.Windows.Forms.AxHost.State)
+        Me.AxSkype1.Size = New System.Drawing.Size(288, 205)
+        Me.AxSkype1.TabIndex = 0
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(278, 244)
+        Me.Controls.Add(Me.AxSkype1)
+        Me.Name = "Form1"
         Me.Text = "Form1"
+        CType(Me.AxSkype1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ResumeLayout(False)
+
     End Sub
+    Friend WithEvents AxSkype1 As AxSKYPE4COMLib.AxSkype
 
 End Class
